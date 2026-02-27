@@ -1,2 +1,2 @@
 ### **Запуск:**
-https://jushoru.github.io/innovo-static/
+https://keystone-t4.github.io/innovo-static/
